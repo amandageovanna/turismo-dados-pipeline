@@ -16,7 +16,7 @@ Durante o desenvolvimento do projeto, foram abordados:
 - Estruturação de DAGs simples e avançados.
 
 ## Funcionalidades
-- **Pipeline Automatizado**: Desenvolvemos um DAG que realiza a extração e armazenamento dos dados semanalmente, agendado para execução às segundas-feiras.
+- **Pipeline Automatizado**: Um DAG que realiza a extração e armazenamento dos dados semanalmente, agendado para execução às segundas-feiras.
 - **Exploração do Airflow**: Estruturação de workflows com tasks sequenciais para maior entendimento da ferramenta.
 
 ## Tecnologias Utilizadas
