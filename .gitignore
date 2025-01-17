@@ -1,0 +1,14 @@
+airflow.db
+logs/
+*.pid
+standalone_admin_password.txt
+venv/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+*.log
+*.env
+*.tmp
+*.temp
+*~
