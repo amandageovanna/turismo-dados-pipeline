@@ -1,4 +1,4 @@
-- # Projeto de Pipeline de Dados com Apache Airflow
+# Projeto de Pipeline de Dados com Apache Airflow
 
 ## Descrição
 Este repositório contém o projeto desenvolvido durante o curso da Alura, focado na criação de um pipeline de dados automatizado utilizando Apache Airflow. O objetivo principal era atender à solicitação de uma empresa de turismo para extrair e armazenar dados da previsão do tempo de forma eficiente e automatizada.
